@@ -1,2 +1,2 @@
-# cli_master-star_master-star_gazer
-cli_master-star_master-star_gazer: Skills for natural progression.
+# star_master-star_gazer
+star_master-star_gazer: Your agent needs feed back to become a star_master. Rate the performance and outcome sepreately.
